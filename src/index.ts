@@ -100,7 +100,7 @@ declare global {
   }
 }
 
-window.CountryList = CountryList
+// window.CountryList = CountryList
 
 export default CountryList
 export { Country, FilterOption }

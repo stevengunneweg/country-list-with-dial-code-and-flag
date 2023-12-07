@@ -8,5 +8,5 @@ declare global {
     CountryFlagSvg: CountryFlagSvgInterface
   }
 }
-window.CountryFlagSvg = CountryFlagSvg
+// window.CountryFlagSvg = CountryFlagSvg
 export default CountryFlagSvg
